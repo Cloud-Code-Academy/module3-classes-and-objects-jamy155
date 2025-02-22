@@ -43,3 +43,5 @@ If you get stuck at any point, here are some resources that might help:
 And remember, programming is often about solving problems, so don't be afraid to use search engines to find answers to your questions.
 
 Good luck with your learning journey in Salesforce development!
+
+Jarhud Augustin
